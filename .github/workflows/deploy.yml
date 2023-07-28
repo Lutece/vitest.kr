@@ -56,6 +56,8 @@ jobs:
         run: pnpm run build
       - name: Print working directory
         run: pwd
+      - name: List files
+        run: ls -al
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
