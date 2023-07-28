@@ -18,7 +18,8 @@ import { transformHead } from './scripts/transformHead'
 import { teamMembers } from './contributors'
 
 export default withPwa(defineConfig({
-  lang: 'en-US',
+  lang: 'ko-KR',
+  base: '/vitest.kr/',
   title: vitestName,
   description: vitestDescription,
   locales: {
