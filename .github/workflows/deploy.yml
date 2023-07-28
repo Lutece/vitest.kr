@@ -24,6 +24,14 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  pwd-ls:
+    name: PWD & LS
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print working directory
+        run: pwd
+      - name: List files
+        run: ls -al
   # Build job
   build:
     runs-on: ubuntu-latest
@@ -49,7 +57,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: docs/.vitepress/dist
+          path: /docs/.vitepress/dist
 
   # Deployment job
   deploy:
