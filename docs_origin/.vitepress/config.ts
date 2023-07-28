@@ -19,7 +19,6 @@ import { teamMembers } from './contributors'
 
 export default withPwa(defineConfig({
   lang: 'ko-KR',
-  base: '/vitest.kr/',
   title: vitestName,
   description: vitestDescription,
   locales: {
