@@ -3,6 +3,10 @@ title: Why Vitest | Guide
 ---
 
 # Why Vitest
+이 가이드는 Vite를 사용하는 것이 능숙하다는 가정 하에 작성되었습니다.
+학습 하기에 더 좋은 방법은 **Why Vite Guide**를 읽고 Evan You가 주요 컨셉들을 설명하는 데모 영상인 **Next generation frontend tooling with ViteJS**을 하는 것입니다. 
+
+# Why Vitest
 
 :::tip NOTE
 This guide assumes that you are familiar with Vite. A good way to start learning more is to read the [Why Vite Guide](https://vitejs.dev/guide/why.html), and [Next generation frontend tooling with ViteJS](https://www.youtube.com/watch?v=UJypSr8IhKY), a stream where [Evan You](https://twitter.com/youyuxi) did a demo explaining the main concepts.
