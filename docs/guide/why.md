@@ -4,7 +4,7 @@ title: Why Vitest | Guide
 
 # Why Vitest
 이 가이드는 Vite를 사용하는 것이 능숙하다는 가정 하에 작성되었습니다.
-학습 하기에 더 좋은 방법은 **Why Vite Guide**를 읽고 Evan You가 주요 컨셉들을 설명하는 데모 영상인 **Next generation frontend tooling with ViteJS**을 하는 것입니다. 
+학습 하기에 더 좋은 방법은 **Why Vite Guide**를 읽고 Evan You가 주요 컨셉들을 설명하는 데모 영상인 **Next generation frontend tooling with ViteJS**을 보는 것입니다. 
 
 # Why Vitest
 
